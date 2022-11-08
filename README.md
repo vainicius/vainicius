@@ -1,6 +1,6 @@
 ## Hey! I'm Vinicius 👋
-### **“The way to be successful in the software world is to come up with breakthrough software, and so whether it's Microsoft Office or Windows, its pushing that forward. New ideas, surprising the marketplace, so good engineering and good business are one in the same.”**
-### - *Bill Gates*
+### **“It’s not a faith in technology. It’s faith in people.”**
+### - *Steve Jobs*
 <div align="left">
   <a href="https://github.com/vainicius">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vainicius&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
