@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="110" src="https://animesher.com/orig/0/19/197/1978/animesher.com_code-computer-html-197855.gif"  />
+<img align="right" height="110" src="https://animesher.com/orig/0/19/197/1978/animesher.com_code-computer-html-197855.gif" alt="kd a imagem"  />
 
 ###
 
