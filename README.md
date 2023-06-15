@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="110" src="https://animesher.com/orig/0/19/197/1978/animesher.com_code-computer-html-197855.gif" alt="kd a imagem"  />
+<img align="right" height="110" src="https://media.tenor.com/exuPwTTU-FwAAAAM/key-click-typing.gif"  />
 
 ###
 
@@ -104,7 +104,7 @@
 
 ###
 
-<img align="left" height="100" src="https://thumbs.gfycat.com/AgreeableGrizzledAmericancreamdraft-size_restricted.gif"  />
+<img align="right" height="110" src="https://thumbs.gfycat.com/AgreeableGrizzledAmericancreamdraft-size_restricted.gif"  />
 
 ###
 
@@ -116,19 +116,15 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/vainicius/vainicius/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=vainicius&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
 
-<div align="center">
+<br clear="both">
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vainicius&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=vainicius&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
