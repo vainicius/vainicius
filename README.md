@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">“It’s not a faith in technology. It’s faith in people.”<br>- Steve Jobs</h4>
+<h4 align="left">“Be a beginner, not an amateur.”</h4>
 
 ###
 
